@@ -41,3 +41,6 @@ body{
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
 }
+.card{
+    cursor: pointer;
+}
